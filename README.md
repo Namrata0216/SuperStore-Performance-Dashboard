@@ -81,10 +81,8 @@ Map visualizations display sales and profit performance across different states 
 
 ---
 
-**Project Files**
+## 📂 Project Files
 ---
-
-## 📂 Project Structure
 
 | File / Folder | Description |
 |--------------|-------------|
