@@ -81,6 +81,19 @@ Map visualizations display sales and profit performance across different states 
 
 ---
 
+**Project Files**
+---
+
+## 📂 Project Structure
+
+| File / Folder | Description |
+|--------------|-------------|
+| 📁 Dashboard Screenshot | Contains images/screenshots of the Power BI dashboard for preview. |
+| 📁 Dataset | Includes the raw dataset used to build the dashboard. |
+| 📄 README.md | Project documentation|
+| 📊 Superstore Sales Performance.pbix | Main Power BI project file containing data model, visuals, and dashboard. |
+
+---
 
 
 
