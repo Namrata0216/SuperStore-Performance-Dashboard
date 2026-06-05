@@ -22,10 +22,11 @@ Enable data-driven decision-making with interactive visualizations.
 
 **Tools & Techniques Used**
 ---
-Power BI
-Power Query (Data Cleaning & Transformation)
-DAX (Data Analysis Expressions)
-Microsoft Excel (Dataset)
+
+- Power BI
+- Power Query (Data Cleaning & Transformation)
+- DAX (Data Analysis Expressions)
+- Microsoft Excel (Dataset)
 
 ---
 
