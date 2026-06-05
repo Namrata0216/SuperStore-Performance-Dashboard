@@ -30,4 +30,20 @@ Enable data-driven decision-making with interactive visualizations.
 
 ---
 
-**
+**Dashboard Features**
+
+1. Interactive Filtering & Slicers
+
+The dashboard includes interactive slicers that allow users to filter data by region and explore specific business areas. This helps in performing customized analysis and gaining deeper insights.
+
+2. KPI Monitoring
+
+Key Performance Indicators (KPIs) such as Total Sales, Total Profit, Total Quantity, and Average Delivery Days provide a quick overview of overall business performance. These metrics help track business growth and efficiency.
+
+3. Sales & Profit Trend Analysis
+
+Line charts are used to analyze monthly sales and profit trends over time. This feature helps identify seasonal patterns, growth opportunities, and performance fluctuations.
+
+4. Geographic Performance Analysis
+
+Map visualizations display sales and profit performance across different states and regions. This enables users to identify high-performing and low-performing locations.
