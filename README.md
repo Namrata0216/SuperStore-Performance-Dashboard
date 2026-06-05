@@ -31,6 +31,7 @@ Enable data-driven decision-making with interactive visualizations.
 ---
 
 **Dashboard Features**
+---
 
 1. Interactive Filtering & Slicers
 
