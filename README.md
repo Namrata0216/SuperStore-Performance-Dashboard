@@ -106,6 +106,24 @@ Map visualizations display sales and profit performance across different states 
 
 ---
 
+**Skills Developed**
+---
+
+- Data Cleaning and Transformation
+- Data Modeling
+- DAX Measures and Calculations
+- KPI Development
+- Interactive Dashboard Design
+- Data Visualization
+- Analytical Reporting and Insight Generation
+
+---
+
+**Connect With Me**
+---
+
+- LinkedIn: [Namrata Gupta](www.linkedin.com/in/
+namrata-gupta-9674ab400)
 
 
 
