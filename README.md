@@ -47,4 +47,19 @@ Map visualizations display sales and profit performance across different states 
 
 ---
 
+**Key Performance Indicators (KPIs)**
+---
+
+- Total Sales: 1.6M
+- Total Profit: 175K
+- Total Quantity Sold: 22K
+- Average Delivery Days: 4
+
+---
+
+**Project Workflow**
+---
+
+
+
 
