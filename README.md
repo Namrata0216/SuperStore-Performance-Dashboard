@@ -74,13 +74,9 @@ Map visualizations display sales and profit performance across different states 
 ---
 
 <h3>1. Superstore Performance Dashboard</h3>
----
-
 <img width="1326" height="747" alt="Superstore dashboard" src="https://github.com/user-attachments/assets/c7e7ca4b-d4fc-428a-acaf-fdb61650a27f" />
 
 <h3>2. Sales Forecasting</h3>
----
-
 <img width="1326" height="746" alt="Sales Forecasting" src="https://github.com/user-attachments/assets/47d94d44-d65f-4325-9528-a5e19c29676b" />
 
 ---
