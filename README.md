@@ -60,13 +60,13 @@ Map visualizations display sales and profit performance across different states 
 **Project Workflow**
 ---
 
-- 1. Data Collection
-- 2. Data Cleaning & Transformation
-- 3. Data Modeling
-- 4. DAX Measures Creation
-- 5. KPI Development
-- 6. Dashboard Development
-- 7. Business Analysis & Insights
+- Data Collection
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Measures Creation
+- KPI Development
+- Dashboard Development
+- Business Analysis & Insights
 
 
 
