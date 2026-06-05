@@ -93,6 +93,20 @@ Map visualizations display sales and profit performance across different states 
 
 ---
 
+**Key Insights**
+---
+
+- The West region contributed the highest share of total sales, accounting for approximately 33% of overall revenue.
+- The Consumer segment generated the largest portion of sales, contributing nearly 48% of total sales.
+- Cash on Delivery (COD) was the most preferred payment mode, representing around 43% of all transactions.
+- Office Supplies emerged as the highest-selling product category with sales of approximately 0.64M.
+- Phones were the top-performing sub-category, generating around 0.20M in sales.
+- Sales showed an overall upward trend in 2020 compared to 2019, indicating business growth over time.
+- The average order delivery time was 4 days, reflecting efficient order fulfillment and logistics performance.
+
+---
+
+
 
 
 
